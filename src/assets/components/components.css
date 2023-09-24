@@ -1,0 +1,10 @@
+.imgStyle{
+    opacity: 0.7;
+    box-shadow: 0 0 2px 0 #333;
+}
+.imgStyle:hover{
+    opacity: 0.9;
+    box-shadow: 0 0 5px 0 #333;
+    transition: all 0.2s;
+    transform: scale(0.98);
+}
